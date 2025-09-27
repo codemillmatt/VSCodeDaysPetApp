@@ -3,7 +3,7 @@
 ## Project Overview
 This is a Blazor WebAssembly application built with .NET 9. 
 
-it is located on https://github.com/jamesmontemagno/SimplePetApp
+it is located on https://github.com/codemillmatt/VSCodeDaysPetApp
 
 The application follows modern best practices for Blazor WASM development.
 
